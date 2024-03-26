@@ -193,7 +193,7 @@
     "component": "richtext",
     "name": "quote",
     "value": "",
-    "label": "Quote",
+    "label": "MyQuote",
     "valueType": "string"
     },
     {
